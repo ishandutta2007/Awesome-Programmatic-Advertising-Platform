@@ -57,34 +57,34 @@ This repository provides an authoritative guide to **Programmatic Advertising Pl
 
 *Sorted by GitHub Star Count (Descending)* 🌟
 
-- 🔹 **[Prebid.js](https://github.com/prebid/Prebid.js)** [![GitHub stars](https://img.shields.io/github/stars/prebid/Prebid.js?style=social&color=white)](https://github.com/prebid/Prebid.js/stargazers)  
+- 🔹 **[Prebid.js](https://github.com/prebid/Prebid.js)** [![GitHub_Stars](https://img.shields.io/github/stars/prebid/Prebid.js?style=social&color=white)](https://github.com/prebid/Prebid.js/stargazers)  
   Industry-standard open-source header bidding client framework allowing publishers to monetize web inventory with demand partners simultaneously.
 
-- 🔹 **[Revive Adserver](https://github.com/revive-adserver/revive-adserver)** [![GitHub stars](https://img.shields.io/github/stars/revive-adserver/revive-adserver?style=social&color=white)](https://github.com/revive-adserver/revive-adserver/stargazers)  
+- 🔹 **[Revive Adserver](https://github.com/revive-adserver/revive-adserver)** [![GitHub_Stars](https://img.shields.io/github/stars/revive-adserver/revive-adserver?style=social&color=white)](https://github.com/revive-adserver/revive-adserver/stargazers)  
   Popular open-source ad serving system enabling publishers to serve ads, track impressions and CTRs, and manage direct campaign delivery.
 
-- 🔹 **[RTBkit](https://github.com/rtbkit/rtbkit)** [![GitHub stars](https://img.shields.io/github/stars/rtbkit/rtbkit?style=social&color=white)](https://github.com/rtbkit/rtbkit/stargazers)  
+- 🔹 **[RTBkit](https://github.com/rtbkit/rtbkit)** [![GitHub_Stars](https://img.shields.io/github/stars/rtbkit/rtbkit?style=social&color=white)](https://github.com/rtbkit/rtbkit/stargazers)  
   Modular C++ real-time bidding framework designed to build custom bidders, DSPs, and bid engines for display, mobile, and video ad auctions.
 
-- 🔹 **[Prebid Server](https://github.com/prebid/prebid-server)** [![GitHub stars](https://img.shields.io/github/stars/prebid/prebid-server?style=social&color=white)](https://github.com/prebid/prebid-server/stargazers)  
+- 🔹 **[Prebid Server](https://github.com/prebid/prebid-server)** [![GitHub_Stars](https://img.shields.io/github/stars/prebid/prebid-server?style=social&color=white)](https://github.com/prebid/prebid-server/stargazers)  
   High-performance server-side header bidding engine (Go & Java) designed to reduce page latency for mobile apps, CTV, and web auctions.
 
-- 🔹 **[Google OpenRTB](https://github.com/google/openrtb)** [![GitHub stars](https://img.shields.io/github/stars/google/openrtb?style=social&color=white)](https://github.com/google/openrtb/stargazers)  
+- 🔹 **[Google OpenRTB](https://github.com/google/openrtb)** [![GitHub_Stars](https://img.shields.io/github/stars/google/openrtb?style=social&color=white)](https://github.com/google/openrtb/stargazers)  
   Google's Java library and JSON/Protobuf serialization utilities for processing OpenRTB bid request and response structures.
 
-- 🔹 **[IAB OpenRTB Spec](https://github.com/InteractiveAdvertisingBureau/openrtb)** [![GitHub stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/openrtb?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/openrtb/stargazers)  
+- 🔹 **[IAB OpenRTB Spec](https://github.com/InteractiveAdvertisingBureau/openrtb)** [![GitHub_Stars](https://img.shields.io/github/stars/InteractiveAdvertisingBureau/openrtb?style=social&color=white)](https://github.com/InteractiveAdvertisingBureau/openrtb/stargazers)  
   Official IAB Tech Lab OpenRTB specification repository containing schemas, definitions, and protocol standards for real-time bidding.
 
-- 🔹 **[Vanilla RTB](https://github.com/vanilla-rtb/vanilla-rtb)** [![GitHub stars](https://img.shields.io/github/stars/vanilla-rtb/vanilla-rtb?style=social&color=white)](https://github.com/vanilla-rtb/vanilla-rtb/stargazers)  
+- 🔹 **[Vanilla RTB](https://github.com/vanilla-rtb/vanilla-rtb)** [![GitHub_Stars](https://img.shields.io/github/stars/vanilla-rtb/vanilla-rtb?style=social&color=white)](https://github.com/vanilla-rtb/vanilla-rtb/stargazers)  
   High-performance C++11/14 RTB engine and developer framework for building scalable custom demand-side bidding engines.
 
-- 🔹 **[bsm/openrtb](https://github.com/bsm/openrtb)** [![GitHub stars](https://img.shields.io/github/stars/bsm/openrtb?style=social&color=white)](https://github.com/bsm/openrtb/stargazers)  
+- 🔹 **[bsm/openrtb](https://github.com/bsm/openrtb)** [![GitHub_Stars](https://img.shields.io/github/stars/bsm/openrtb?style=social&color=white)](https://github.com/bsm/openrtb/stargazers)  
   Fast, lightweight Go implementation of the OpenRTB 2.x protocol for bid request and response parsing.
 
-- 🔹 **[RTB4FREE Bidder](https://github.com/RTB4FREE/bidder)** [![GitHub stars](https://img.shields.io/github/stars/RTB4FREE/bidder?style=social&color=white)](https://github.com/RTB4FREE/bidder/stargazers)  
+- 🔹 **[RTB4FREE Bidder](https://github.com/RTB4FREE/bidder)** [![GitHub_Stars](https://img.shields.io/github/stars/RTB4FREE/bidder?style=social&color=white)](https://github.com/RTB4FREE/bidder/stargazers)  
   Java 1.8+ OpenRTB bidder engine designed for high throughput (25k+ QPS per node) and custom campaign target matching.
 
-- 🔹 **[Awesome-RTB](https://github.com/vanilla-rtb/awesome-rtb)** [![GitHub stars](https://img.shields.io/github/stars/vanilla-rtb/awesome-rtb?style=social&color=white)](https://github.com/vanilla-rtb/awesome-rtb/stargazers)  
+- 🔹 **[Awesome-RTB](https://github.com/vanilla-rtb/awesome-rtb)** [![GitHub_Stars](https://img.shields.io/github/stars/vanilla-rtb/awesome-rtb?style=social&color=white)](https://github.com/vanilla-rtb/awesome-rtb/stargazers)  
   Curated collection of open-source RTB frameworks, bidder components, protocol implementations, and ad-tech learning resources.
 
 ---
